@@ -12,7 +12,7 @@ RUN pip install \
       checksumdir==1.1.4 \
       consullock==4.2.0 \
       demjson==2.2.4 \
-      docker==3.0.1 \
+      docker==3.5.0 \
       docker-pycreds==0.3.0 \
       dockerfile==2.0.1 \
       hgijson==3.1.0 \
@@ -25,9 +25,8 @@ RUN pip install \
       PyYAML==3.13 \
       requests==2.19.1 \
       six==1.11.0 \
-      thriftybuilder==1.0.1 \
+      git+https://github.com/jrandall/thrifty-builder.git@v1.0.3-beta.1.0.4.2 \
       timeout-decorator==0.4.0 \
       urllib3==1.23 \
       websocket-client==0.53.0 \
       zgitignore==0.8.1
-      
