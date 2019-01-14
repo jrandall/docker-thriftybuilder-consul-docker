@@ -25,7 +25,7 @@ RUN pip install \
       PyYAML==3.13 \
       requests==2.19.1 \
       six==1.11.0 \
-      git+https://github.com/jrandall/thrifty-builder.git@v1.0.3-beta.1.0.4.2 \
+      git+https://github.com/jrandall/thrifty-builder.git@v1.0.3-beta.1.0.4.3 \
       timeout-decorator==0.4.0 \
       urllib3==1.23 \
       websocket-client==0.53.0 \
